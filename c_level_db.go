@@ -8,7 +8,7 @@ import (
 
 	"github.com/jmhodges/levigo"
 
-	. "github.com/tendermint/go-common"
+	. "github.com/intfoundation/go-common"
 )
 
 func init() {
